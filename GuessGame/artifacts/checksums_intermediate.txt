@@ -1,0 +1,2 @@
+4242728a304022e9c20cf45d24bbfe2977fac16a5f1df2ff69618c81f9fda42a  ./target/wasm32-unknown-unknown/release/dicegamble.wasm
+caec69ef456ace373a165a8ad35037ebf000658bacbc273954a7fcc4bd196539  ./target/wasm32-unknown-unknown/release/dquiz.wasm

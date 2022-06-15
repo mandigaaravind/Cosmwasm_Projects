@@ -1,0 +1,2 @@
+aff6136cac06629c54a4dab4fb1248aa4d29ec68071044a7ee8beccac80eda0c  dicegamble.wasm
+d435a4842f2bd292cf4790b441259850e7157870d06e1fcad0bc03c36dc1c256  dquiz.wasm
